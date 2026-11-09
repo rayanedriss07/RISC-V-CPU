@@ -4,3 +4,5 @@
 /tb         → testbenches go here
 
 /docs       → any notes worth keeping long-term go here
+
+/sims       → Generated simulation outputs and waveforms
