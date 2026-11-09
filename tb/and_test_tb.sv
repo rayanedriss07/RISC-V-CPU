@@ -27,3 +27,11 @@ module and_test_tb;
     end
 
 endmodule
+
+module and_test (
+    input  logic a,
+    input  logic b,
+    output logic y
+);
+    assign y = a & b;
+endmodule
